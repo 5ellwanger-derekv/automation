@@ -14,3 +14,7 @@ Personal development log — notes, findings, and ongoing work.
 - Added healthcheck endpoint stub
 - Resolved deprecation warnings
 - Drafted initial implementation plan for v2
+
+## 2026-05-06
+- Reviewed codebase, identified areas for improvement
+- Checked for memory leaks in long-running path
