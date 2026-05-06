@@ -9,3 +9,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-05-06
 - Improved log message formatting
 - Noted known limitation in docs
+
+## 2026-05-06
+- Added healthcheck endpoint stub
+- Resolved deprecation warnings
+- Drafted initial implementation plan for v2
